@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "6772dd2bc46480f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "4916996bd568ab34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "031571cf0896e29f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7 - Technical Notes/The Hive Installation Guide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d302c2817f1e0470",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7d3340acd511620",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca933a4efb469b86",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bf8af7405f42144e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "de2c15b7b23f67df",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f95e1814550ea0d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0f7ccb11e34174d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "933da115cd5b4522",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "7 - Technical Notes/The Hive Installation Guide.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2078c39e05426c0a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "7 - Technical Notes/The Hive Installation Guide.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d3826685156547cd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "7 - Technical Notes/The Hive Installation Guide.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "031571cf0896e29f",
+  "lastOpenFiles": [
+    "6 - Main Notes/Watchdog.md",
+    "3 - Tags/TheHive.md",
+    "7 - Technical Notes/The Hive Installation Guide.md",
+    "2 - Source Material/Books/System Design.md",
+    "5 - Templates/Code Snippet Template.md",
+    "2 - Source Material/School/CompTIA A+/CPU",
+    "2 - Source Material/School/CompTIA A+/MotherBoard",
+    "2 - Source Material/School/CompTIA A+",
+    "2 - Source Material/School",
+    "2 - Source Material/Courses/The Web Developer Bootcamp/Untitled.md",
+    "2 - Source Material/Courses/The Web Developer Bootcamp",
+    "2 - Source Material/Courses",
+    "7 - Technical Notes/NodeJS",
+    "5 - Templates/Template Reference/Code Snippet Template.md",
+    "5 - Templates/Installation Guide Template.md",
+    "5 - Templates/Template Reference/Installation Guide Template.md",
+    "5 - Templates/Main Note Template.md",
+    "5 - Templates/Template Reference",
+    "7 - Technical Notes",
+    "5 - Templates/Template Reference/Main Note Example NOT A TEMPLATE.md",
+    "5 - Templates/Template Reference/Source Note EXAMPLE NOT A TEMPLATE.md",
+    "5 - Templates/Source Note Template.md",
+    "6 - Main Notes/WinlogBeat.md",
+    "3 - Tags/Python.md",
+    "6 - Main Notes/Notion Automation Project.md",
+    "3 - Tags/Projects.md",
+    "3 - Tags/Notion.md",
+    "2 - Source Material/Projects/Notion Automation/Notion Automation Project Reference.md",
+    "2 - Source Material/Programming/Watchdog Reference.md",
+    "2 - Source Material/Projects/Notion Automation",
+    "2 - Source Material/Cyber Security/Winlogbeat Reference.md",
+    "3 - Tags/Windows.md",
+    "6 - Main Notes/2024-10-06.md",
+    "3 - Tags/Watchdog_tag.md",
+    "6 - Main Notes/Watchdog Reference.md",
+    "3 - Tags/Cyber Security.md",
+    "Untitled.canvas"
+  ]
+}
