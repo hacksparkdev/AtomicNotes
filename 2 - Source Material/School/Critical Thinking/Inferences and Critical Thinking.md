@@ -1,7 +1,6 @@
 
-{{Title}}
-
-Date: {{date}} {{time}}
+Tags: [[critical thinking]] [[Propositions]] [[school]] [[conclusions]] [[inferences]] 
+Date: 2024-10-08 17:29
 
 ---
 
