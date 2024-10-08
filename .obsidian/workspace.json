@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Material/School/CompTIA A+/Troubleshooting/Troubleshooting Methodology.md",
+                "file": "2 - Source Material/School/CompTIA A+/MotherBoard/CompTIA CPU.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Material/School/CompTIA A+/Troubleshooting/Troubleshooting Methodology.md",
+                "file": "2 - Source Material/School/CompTIA A+/MotherBoard/CompTIA CPU.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Material/School/CompTIA A+/Troubleshooting/Troubleshooting Methodology.md",
+                "file": "2 - Source Material/School/CompTIA A+/MotherBoard/CompTIA CPU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Material/School/CompTIA A+/Troubleshooting/Troubleshooting Methodology.md"
+                "file": "2 - Source Material/School/CompTIA A+/MotherBoard/CompTIA CPU.md"
               }
             }
           }
@@ -134,8 +134,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca933a4efb469b86",
+  "active": "d94cee6b88317b55",
   "lastOpenFiles": [
+    "2 - Source Material/School/CompTIA A+/Troubleshooting/Troubleshooting Methodology.md",
     "2 - Source Material/School/CompTIA A+/MotherBoard/CompTIA CPU.md",
     "2 - Source Material/School/CompTIA A+/MotherBoard/Mother Board Form Factors.md",
     "2 - Source Material/School/CompTIA A+/MotherBoard/Motherboard CPU and System Memory Connectors.md",
@@ -143,7 +144,6 @@
     "2 - Source Material/School/CompTIA A+/MotherBoard/SATA Hard Drive Cables.md",
     "2 - Source Material/School/CompTIA A+/MotherBoard/RAID (Redundant Array of Independent Disks) Overview.md",
     "2 - Source Material/School/CompTIA A+/MotherBoard/System Memory.md",
-    "2 - Source Material/School/CompTIA A+/Troubleshooting/Troubleshooting Methodology.md",
     "3 - Tags/troubleshooting.md",
     "1 - Rough Notes/Critical Notes.md",
     "2 - Source Material/School/CompTIA A+/Troubleshooting",
