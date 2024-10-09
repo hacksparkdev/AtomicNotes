@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Material/School/CompTIA A+/MotherBoard/CompTIA CPU.md",
+                "file": "2 - Source Material/Resources/100 Journal Prompts.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Material/School/CompTIA A+/MotherBoard/CompTIA CPU.md",
+                "file": "2 - Source Material/Resources/100 Journal Prompts.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Material/School/CompTIA A+/MotherBoard/CompTIA CPU.md",
+                "file": "2 - Source Material/Resources/100 Journal Prompts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Material/School/CompTIA A+/MotherBoard/CompTIA CPU.md"
+                "file": "2 - Source Material/Resources/100 Journal Prompts.md"
               }
             }
           }
@@ -136,8 +136,16 @@
   },
   "active": "d94cee6b88317b55",
   "lastOpenFiles": [
-    "2 - Source Material/School/CompTIA A+/Troubleshooting/Troubleshooting Methodology.md",
+    "3 - Tags/journalprompts.md",
+    "2 - Source Material/Resources/100 Journal Prompts.md",
+    "3 - Tags/journaling.md",
+    "2 - Source Material/Resources/Writing Resources.md",
+    "3 - Tags/writing_resources.md",
+    "3 - Tags/resources.md",
+    "3 - Tags/writing.md",
     "2 - Source Material/School/CompTIA A+/MotherBoard/CompTIA CPU.md",
+    "2 - Source Material/Resources",
+    "2 - Source Material/School/CompTIA A+/Troubleshooting/Troubleshooting Methodology.md",
     "2 - Source Material/School/CompTIA A+/MotherBoard/Mother Board Form Factors.md",
     "2 - Source Material/School/CompTIA A+/MotherBoard/Motherboard CPU and System Memory Connectors.md",
     "2 - Source Material/School/CompTIA A+/MotherBoard/Motherboard Header and Power Connectors.md",
@@ -156,13 +164,6 @@
     "2 - Source Material/School/Critical Thinking/Inferences and Critical Thinking.md",
     "3 - Tags/premises.md",
     "4 - Indexes/Notes.md",
-    "3 - Tags/inferences.md",
-    "2 - Source Material/School/Critical Thinking/Distinguishing Between Premises and Conclusions.md",
-    "6 - Main Notes/A Breakdown of a computers motherboard and parts.md",
-    "2 - Source Material/Cyber Security/Winlogbeat Reference.md",
-    "6 - Main Notes/WinlogBeat.md",
-    "6 - Main Notes/Watchdog.md",
-    "6 - Main Notes/Notion Automation Project.md",
     "Images/3707-1635356313564-motherboard_front_panel-usb-audio_headers.jpg",
     "Images",
     "2 - Source Material/School/Critical Thinking",
@@ -172,7 +173,6 @@
     "2 - Source Material/School",
     "2 - Source Material/Courses/The Web Developer Bootcamp",
     "2 - Source Material/Courses",
-    "7 - Technical Notes/NodeJS",
     "Untitled.canvas"
   ]
 }
