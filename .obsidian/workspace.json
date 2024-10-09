@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Material/HacktheBox/SOC Analyst/Incident Handling Process/Cyber Kill Chain.md",
+                "file": "2 - Source Material/School/Critical Thinking/What is Critical Thinking.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Material/HacktheBox/SOC Analyst/Incident Handling Process/Cyber Kill Chain.md",
+                "file": "2 - Source Material/School/Critical Thinking/What is Critical Thinking.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Material/HacktheBox/SOC Analyst/Incident Handling Process/Cyber Kill Chain.md",
+                "file": "2 - Source Material/School/Critical Thinking/What is Critical Thinking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Material/HacktheBox/SOC Analyst/Incident Handling Process/Cyber Kill Chain.md"
+                "file": "2 - Source Material/School/Critical Thinking/What is Critical Thinking.md"
               }
             }
           }
@@ -134,20 +134,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d94cee6b88317b55",
+  "active": "ca933a4efb469b86",
   "lastOpenFiles": [
+    "2 - Source Material/School/Critical Thinking/Truth, Validity, Soundness.md",
+    "2 - Source Material/School/Critical Thinking/Inferences and Critical Thinking.md",
+    "2 - Source Material/School/Critical Thinking/Critical Thinking Propositions.md",
+    "2 - Source Material/Cyber Security/Watchdog Reference.md",
+    "2 - Source Material/HacktheBox/SOC Analyst/Incident Handling Process/Incident Handling Intro HTB.md",
+    "2 - Source Material/HacktheBox/SOC Analyst/Incident Handling Process/Cyber Kill Chain.md",
+    "3 - Tags/writing_resources.md",
+    "3 - Tags/writing.md",
+    "3 - Tags/resources.md",
+    "3 - Tags/journalprompts.md",
+    "3 - Tags/journaling.md",
+    "2 - Source Material/Resources/Writing Resources.md",
+    "2 - Source Material/Resources/100 Journal Prompts.md",
+    "2 - Source Material/Resources",
     "6 - Main Notes/Backdoor.md",
     "3 - Tags/cyber_kill_chain.md",
-    "2 - Source Material/HacktheBox/SOC Analyst/Incident Handling Process/Cyber Kill Chain.md",
     "6 - Main Notes/ransomeware.md",
     "6 - Main Notes/dropper.md",
     "6 - Main Notes/rootkit.md",
-    "2 - Source Material/School/Critical Thinking/Inferences and Critical Thinking.md",
     "3 - Tags/critical thinking.md",
-    "2 - Source Material/School/Critical Thinking/Critical Thinking Propositions.md",
     "Images/Cyber_kill_chain 1.png",
     "Images/Cyber_kill_chain.png",
-    "2 - Source Material/HacktheBox/SOC Analyst/Incident Handling Process/Incident Handling Intro HTB.md",
     "3 - Tags/NIST.md",
     "3 - Tags/SOC.md",
     "3 - Tags/jobrolepath.md",
@@ -155,18 +165,9 @@
     "3 - Tags/Cyber Security.md",
     "3 - Tags/incident_handling.md",
     "3 - Tags/htb.md",
-    "5 - Templates/Source Note Template.md",
     "2 - Source Material/HacktheBox/SOC Analyst/Incident Handling Process",
-    "5 - Templates/Hack The Box Job Role Path Template.md",
     "2 - Source Material/HacktheBox/SOC Analyst",
     "2 - Source Material/HacktheBox",
-    "5 - Templates/CTF Challenge Note Template.md",
-    "2 - Source Material/Youtube/6 disciplines of strategic Thinking.md",
-    "3 - Tags/youtube.md",
-    "3 - Tags/discipline.md",
-    "3 - Tags/strategic_thinking.md",
-    "2 - Source Material/School/CompTIA A+/Troubleshooting/Troubleshooting Methodology.md",
-    "2 - Source Material/School/CompTIA A+/MotherBoard/CompTIA CPU.md",
     "2 - Source Material/School/CompTIA A+/Troubleshooting",
     "Images/3707-1635356313564-motherboard_front_panel-usb-audio_headers.jpg",
     "Images",
@@ -174,7 +175,6 @@
     "2 - Source Material/School/CompTIA A+/CPU",
     "2 - Source Material/School/CompTIA A+/MotherBoard",
     "2 - Source Material/School/CompTIA A+",
-    "2 - Source Material/School",
     "Untitled.canvas"
   ]
 }
