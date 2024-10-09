@@ -1,7 +1,7 @@
 
 
 Tags: 
-Date: {{date}} {{time}}
+Date: 2024-10-09 17:04
 
 ---
 
