@@ -1,3 +1,4 @@
+Tags: [[hardware]] [[IT]] [[CompTIA_A+]] [[school]] [[Cyber Security]] 
 Date: 2024-10-07 11:09
 
 ---

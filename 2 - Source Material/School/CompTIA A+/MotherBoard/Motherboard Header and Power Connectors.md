@@ -1,4 +1,4 @@
-Tags: [[motherboard]] [[CompTIA_A+]] [[hardware]] [[school]] [[IT]] 
+Tags: [[motherboard]] [[CompTIA_A+]] [[hardware]] [[school]] [[IT]] [[Cyber Security]] 
 Date: 2024-10-07 12:45
 
 ---

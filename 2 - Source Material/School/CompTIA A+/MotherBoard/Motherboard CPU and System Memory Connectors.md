@@ -1,5 +1,5 @@
 
-Tags: [[CompTIA_A+]] [[hardware]] [[CompTIA CPU]] [[ram]]  [[motherboard]] [[IT]] [[school]] 
+Tags: [[CompTIA_A+]] [[hardware]] [[CompTIA CPU]] [[ram]]  [[motherboard]] [[IT]] [[school]]  [[Cyber Security]]
 Date: 2024-10-07 11:35
 
 ---

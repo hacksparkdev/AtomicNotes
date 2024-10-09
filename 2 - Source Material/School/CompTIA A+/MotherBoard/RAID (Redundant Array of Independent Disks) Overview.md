@@ -1,5 +1,5 @@
 
-Tags: [[IT]] [[motherboard]] [[CompTIA_A+]] [[raid]] 
+Tags: [[IT]] [[motherboard]] [[CompTIA_A+]] [[raid]] [[school]] [[Cyber Security]]
 Date: 2024-10-08 16:37
 
 ---

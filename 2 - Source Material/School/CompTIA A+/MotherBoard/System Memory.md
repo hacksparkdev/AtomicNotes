@@ -1,6 +1,6 @@
 
 Date: 2024-10-06 22:52
- Tags: [[hardware]] [[CompTIA_A+]]  [[systemmemory]] [[storage]] 
+ Tags: [[hardware]] [[CompTIA_A+]]  [[systemmemory]] [[storage]]  [[Cyber Security]] 
  
 ---
 
