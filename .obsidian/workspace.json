@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Material/School/Critical Thinking/Critical Thinking Propositions.md",
+                "file": "7 - Technical Notes/Bash/Bash Arrarys.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#comptiaAplus",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Material/School/Critical Thinking/Critical Thinking Propositions.md",
+                "file": "7 - Technical Notes/Bash/Bash Arrarys.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Material/School/Critical Thinking/Critical Thinking Propositions.md",
+                "file": "7 - Technical Notes/Bash/Bash Arrarys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Material/School/Critical Thinking/Critical Thinking Propositions.md"
+                "file": "7 - Technical Notes/Bash/Bash Arrarys.md"
               }
             }
           }
@@ -134,36 +134,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca933a4efb469b86",
+  "active": "808dab7e2183f405",
   "lastOpenFiles": [
+    "3 - Tags/arrays.md",
+    "7 - Technical Notes/Bash/Bash Arrarys.md",
+    "7 - Technical Notes/Bash/Bash Arguments.md",
+    "3 - Tags/arguments.md",
+    "7 - Technical Notes/Bash/Bash Comments.md",
+    "3 - Tags/comments.md",
+    "7 - Technical Notes/Bash/Basic Bash  File  Structure.md",
+    "7 - Technical Notes/Bash/Bash Variables.md",
+    "7 - Technical Notes/Bash/Bash User input.md",
+    "5 - Templates/Code Snippet Template.md",
+    "3 - Tags/user_input.md",
+    "3 - Tags/variables.md",
+    "3 - Tags/bash.md",
+    "3 - Tags/linux.md",
+    "6 - Main Notes/Backdoor.md",
+    "7 - Technical Notes/Bash",
+    "2 - Source Material/School/Critical Thinking/Formal VS Informal Fallacies.md",
+    "3 - Tags/formal.md",
+    "3 - Tags/future.md",
+    "3 - Tags/fallacies.md",
+    "3 - Tags/conclusions.md",
+    "3 - Tags/cpu.md",
+    "3 - Tags/Cyber Security.md",
+    "3 - Tags/discipline.md",
+    "2 - Source Material/Youtube/6 disciplines of strategic Thinking.md",
+    "2 - Source Material/Cyber Security/Watchdog Reference.md",
+    "6 - Main Notes/Watchdog.md",
     "2 - Source Material/Programming/Bash",
     "2 - Source Material/Programming",
-    "2 - Source Material/School/Critical Thinking/Distinguishing Between Premises and Conclusions.md",
-    "2 - Source Material/School/Critical Thinking/Truth, Strength, Cogency.md",
-    "2 - Source Material/School/Critical Thinking/Critical Thinking Propositions.md",
-    "2 - Source Material/School/Critical Thinking/Formal VS Informal Fallacies.md",
-    "2 - Source Material/School/Critical Thinking/Inferences and Critical Thinking.md",
-    "2 - Source Material/School/CompTIA A+/Troubleshooting/Troubleshoot Power and Disk Issues.md",
     "Screenshot 2024-10-13 121946.png",
-    "2 - Source Material/School/CompTIA A+/Troubleshooting/Configure BIOS UEFI.md",
-    "2 - Source Material/School/CompTIA A+/Troubleshooting/Troubleshooting Methodology.md",
-    "3 - Tags/CompTIA A+ Trouble Shooting Model.md",
-    "2 - Source Material/School/CompTIA A+/MotherBoard/Raid Configurations.md",
-    "2 - Source Material/School/CompTIA A+/MotherBoard/RAID (Redundant Array of Independent Disks) Overview.md",
-    "2 - Source Material/School/CompTIA A+/MotherBoard/CompTIA CPU.md",
-    "2 - Source Material/Projects/Logroot/Logroot Overview.md",
-    "3 - Tags/conclusions.md",
-    "2 - Source Material/HacktheBox/SOC Analyst/Incident Handling Process/Cyber Kill Chain.md",
-    "2 - Source Material/Goals & My Future/Potential Schedule.md",
-    "2 - Source Material/School/CompTIA A+/MotherBoard/Motherboard Header and Power Connectors.md",
-    "5 - Templates/Goal Planning Template.md",
-    "1 - Rough Notes/CompTIA A+.md",
-    "2 - Source Material/Goals & My Future/Weekly goals/October Week of 14th.md",
-    "5 - Templates/Book Template.md",
-    "5 - Templates/Code Snippet Template.md",
-    "5 - Templates/Main Note Template.md",
-    "2 - Source Material/Books/Meditations-Marcus Aurelius/Book 2.md",
-    "3 - Tags/working_together.md",
     "2 - Source Material/Goals & My Future/Weekly goals",
     "8 - Schedule",
     "2 - Source Material/Goals & My Future",
@@ -178,8 +180,6 @@
     "2 - Source Material/Resources",
     "Images/Cyber_kill_chain 1.png",
     "Images/Cyber_kill_chain.png",
-    "2 - Source Material/HacktheBox/SOC Analyst/Incident Handling Process",
-    "2 - Source Material/HacktheBox/SOC Analyst",
     "Images/3707-1635356313564-motherboard_front_panel-usb-audio_headers.jpg",
     "Untitled.canvas"
   ]

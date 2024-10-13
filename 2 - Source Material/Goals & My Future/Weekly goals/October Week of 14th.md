@@ -42,6 +42,11 @@ Tags: [[goals]] [[future]] [[schedule]] [[planning]]
 - [ ] Goal 1: *(e.g., Update LinkedIn profile with new projects)*
 - [ ] Goal 2: *(e.g., Engage on Twitter/LinkedIn 3 times per week)*
 
+#### **School:**
+- [ ] Goal 1: 
+- [ ] Goal 2: 
+## ****
+
 ---
 
 ### 📆 **Daily Review**

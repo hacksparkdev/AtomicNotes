@@ -1,6 +1,11 @@
-# {{Title of the Code Snippet}}
+Tags: 
+ Date: {{date}} 
+ 
+---
 
-## Date: {{date}} 
+## Source:
+
+
 ---
 
 ## Description:
