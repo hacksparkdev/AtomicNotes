@@ -1,5 +1,5 @@
 
-Tags: [[critical thinking]] [[Propositions]] [[school]] [[conclusions]] [[inferences]] [[premises]] 
+Tags: [[critical thinking]] [[Propositions]] [[school]] [[conclusions]] [[inferences]] [[premises]] [[philosphy]]
 Date: 2024-10-08 17:29
 
 ---

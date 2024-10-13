@@ -1,6 +1,6 @@
 
 Tags:
-Date: {{date}}
+Date: 2024-10-11
 
 ---
 
@@ -24,6 +24,5 @@ Date: {{date}}
 
 ---
 
-## Tags:
 
 

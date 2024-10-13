@@ -1,5 +1,5 @@
 
-Tags: [[critical thinking]] [[school]] [[Propositions]]
+Tags: [[critical thinking]] [[school]] [[Propositions]] [[philosphy]]
 
 Date: 2024-10-07 13:32
 

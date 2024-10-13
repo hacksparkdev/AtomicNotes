@@ -1,4 +1,4 @@
-Tags: [[school]] [[critical thinking]] 
+Tags: [[school]] [[critical thinking]] [[philosphy]]
 Date: 2024-10-07 13:13
 
 ---

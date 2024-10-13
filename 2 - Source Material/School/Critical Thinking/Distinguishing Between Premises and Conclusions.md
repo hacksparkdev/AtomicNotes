@@ -1,5 +1,5 @@
 
-Tags: [[critical thinking]] [[school]] [[pemises]] [[conclusions]]
+Tags: [[critical thinking]] [[school]] [[pemises]] [[conclusions]] [[philosphy]]
 Date: 2024-10-07 14:55
 
 ---
@@ -15,10 +15,10 @@ Date: 2024-10-07 14:55
 ---
 
 ## Detailed Notes:
-All roses are red
-All red things are ugly 
-All roses are ugly
-
+- **Sound Argument**
+	- All Xs do Y 
+	- Z is an X 
+	- Therefore, Z does Y 
 - **Key Concept 1: Premises**
 	- If both premises are true in a argument then the conclusion must be true. 
    
@@ -77,7 +77,6 @@ All roses are ugly
 			- **Premise 2: Socrates is a human.** 
 - **Conclusion**
 	-  The statement or claim that follows from the premises. It is what the argument is trying to prove or establish based on the given premises. 
-		- **Conclusion: Therefor, Socrates is mortal**
 
 ---
 

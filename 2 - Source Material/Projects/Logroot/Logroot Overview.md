@@ -64,7 +64,10 @@ Does this match what you're working on, or is there something specific you'd lik
 ---
 
 ## Related Notes:
-
+- **Addition**
+	-  Wanting to add Ansible to my project. 
+	- I could use Ansible in my project for scheduling tasks like vulnerability scanning tasks. 
+	- I would be better to use for tasks that need to be scheduled. I could use it to deploy my python workers to each station. 
 
 ---
 
