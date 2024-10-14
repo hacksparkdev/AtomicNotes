@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Technical Notes/Bash/Bash Arrarys.md",
+                "file": "7 - Technical Notes/Powershell/Introduction to Powershell.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7 - Technical Notes/Bash/Bash Arrarys.md",
+                "file": "7 - Technical Notes/Powershell/Introduction to Powershell.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7 - Technical Notes/Bash/Bash Arrarys.md",
+                "file": "7 - Technical Notes/Powershell/Introduction to Powershell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7 - Technical Notes/Bash/Bash Arrarys.md"
+                "file": "7 - Technical Notes/Powershell/Introduction to Powershell.md"
               }
             }
           }
@@ -134,11 +134,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca933a4efb469b86",
+  "active": "808dab7e2183f405",
   "lastOpenFiles": [
+    "7 - Technical Notes/Bash/Bash Arrarys.md",
+    "7 - Technical Notes/Powershell/Introduction to Powershell.md",
     "7 - Technical Notes/Powershell",
     "3 - Tags/arrays.md",
-    "7 - Technical Notes/Bash/Bash Arrarys.md",
     "7 - Technical Notes/Bash/Bash Arguments.md",
     "3 - Tags/arguments.md",
     "7 - Technical Notes/Bash/Bash Comments.md",
@@ -177,7 +178,6 @@
     "Images/Screenshot 2024-10-11 220921.png",
     "2 - Source Material/Philosophy",
     "2 - Source Material/Books/Meditations-Marcus Aurelius",
-    "2 - Source Material/Resources",
     "Images/Cyber_kill_chain 1.png",
     "Images/Cyber_kill_chain.png",
     "Images/3707-1635356313564-motherboard_front_panel-usb-audio_headers.jpg",
