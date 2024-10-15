@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Technical Notes/Powershell/Introduction to Powershell.md",
+                "file": "2 - Source Material/School/CompTIA A+/Troubleshooting/Troubleshoot Power and Disk Issues.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7 - Technical Notes/Powershell/Introduction to Powershell.md",
+                "file": "2 - Source Material/School/CompTIA A+/Troubleshooting/Troubleshoot Power and Disk Issues.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7 - Technical Notes/Powershell/Introduction to Powershell.md",
+                "file": "2 - Source Material/School/CompTIA A+/Troubleshooting/Troubleshoot Power and Disk Issues.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7 - Technical Notes/Powershell/Introduction to Powershell.md"
+                "file": "2 - Source Material/School/CompTIA A+/Troubleshooting/Troubleshoot Power and Disk Issues.md"
               }
             }
           }
@@ -136,8 +136,26 @@
   },
   "active": "808dab7e2183f405",
   "lastOpenFiles": [
-    "7 - Technical Notes/Bash/Bash Arrarys.md",
+    "2 - Source Material/School/CompTIA A+/Troubleshooting/Configure BIOS UEFI.md",
+    "2 - Source Material/School/CompTIA A+/MotherBoard/Connectors/Mother Board Connectors.md",
+    "Screenshot 2024-10-14 214831.png",
+    "Screenshot 2024-10-14 214649.png",
+    "Screenshot 2024-10-14 214435.png",
+    "Screenshot 2024-10-14 214215.png",
+    "Screenshot 2024-10-14 213929.png",
+    "3 - Tags/connectors.md",
+    "Screenshot 2024-10-14 213552.png",
+    "2 - Source Material/School/CompTIA A+/Troubleshooting/Troubleshooting Methodology.md",
+    "2 - Source Material/School/CompTIA A+/MotherBoard/Connectors",
+    "2 - Source Material/School/CompTIA A+/Troubleshooting/Troubleshoot Power and Disk Issues.md",
+    "7 - Technical Notes/Powershell/PowerShell Cheat Sheet.md",
+    "1 - Rough Notes/Cheet Sheet References.md",
+    "7 - Technical Notes/Powershell/Untitled",
+    "2 - Source Material/School/Critical Thinking/Evaluating Arguments and Evidence/Critical Thinking Propositions.md",
+    "2 - Source Material/School/Critical Thinking/Information Sources",
     "7 - Technical Notes/Powershell/Introduction to Powershell.md",
+    "2 - Source Material/School/Critical Thinking/Evaluating Arguments and Evidence",
+    "7 - Technical Notes/Bash/Bash Arrarys.md",
     "7 - Technical Notes/Powershell",
     "3 - Tags/arrays.md",
     "7 - Technical Notes/Bash/Bash Arguments.md",
@@ -154,33 +172,15 @@
     "3 - Tags/linux.md",
     "6 - Main Notes/Backdoor.md",
     "7 - Technical Notes/Bash",
-    "2 - Source Material/School/Critical Thinking/Formal VS Informal Fallacies.md",
-    "3 - Tags/formal.md",
-    "3 - Tags/future.md",
-    "3 - Tags/fallacies.md",
-    "3 - Tags/conclusions.md",
-    "3 - Tags/cpu.md",
-    "3 - Tags/Cyber Security.md",
-    "3 - Tags/discipline.md",
-    "2 - Source Material/Youtube/6 disciplines of strategic Thinking.md",
-    "2 - Source Material/Cyber Security/Watchdog Reference.md",
+    "2 - Source Material/School/Critical Thinking/Evaluating Arguments and Evidence/Formal VS Informal Fallacies.md",
     "2 - Source Material/Programming/Bash",
     "2 - Source Material/Programming",
     "Screenshot 2024-10-13 121946.png",
     "2 - Source Material/Goals & My Future/Weekly goals",
     "8 - Schedule",
-    "2 - Source Material/Goals & My Future",
     "Images/raid-levels-explained.png",
     "Images/Screenshot 2024-10-12 114331.png",
     "Images/Screenshot 2024-10-12 114120.png",
-    "Images/Screenshot 2024-10-12 114100.png",
-    "2 - Source Material/School/CompTIA A+/RAID",
-    "Images/Screenshot 2024-10-11 220921.png",
-    "2 - Source Material/Philosophy",
-    "2 - Source Material/Books/Meditations-Marcus Aurelius",
-    "Images/Cyber_kill_chain 1.png",
-    "Images/Cyber_kill_chain.png",
-    "Images/3707-1635356313564-motherboard_front_panel-usb-audio_headers.jpg",
     "Untitled.canvas"
   ]
 }
