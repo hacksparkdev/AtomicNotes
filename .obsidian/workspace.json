@@ -4,22 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "422763ee70ee674f",
+        "id": "c9ead2ddb2074e66",
         "type": "tabs",
         "children": [
           {
-            "id": "808dab7e2183f405",
+            "id": "eeb02a38c6081ab4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Material/School/CompTIA A+/Troubleshooting/Troubleshoot Power and Disk Issues.md",
+                "file": "SOC Project/Main Idea.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Main Idea"
+            }
+          },
+          {
+            "id": "1c19c554396fdb03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SOC Project/Main Idea.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Main Idea"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -48,13 +67,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Apache_Kafka",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Material/School/CompTIA A+/Troubleshooting/Troubleshoot Power and Disk Issues.md",
+                "file": "SOC Project/Main Idea.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +116,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Main Idea"
             }
           },
           {
@@ -102,10 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Material/School/CompTIA A+/Troubleshooting/Troubleshoot Power and Disk Issues.md",
+                "file": "SubStack/Ideas/Python Subscription Letter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Python Subscription Letter"
             }
           },
           {
@@ -114,15 +141,18 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Material/School/CompTIA A+/Troubleshooting/Troubleshoot Power and Disk Issues.md"
-              }
+                "file": "SubStack/Ideas/Python Subscription Letter.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Python Subscription Letter"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -134,53 +164,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "808dab7e2183f405",
+  "active": "1c19c554396fdb03",
   "lastOpenFiles": [
-    "2 - Source Material/School/CompTIA A+/Troubleshooting/Configure BIOS UEFI.md",
-    "2 - Source Material/School/CompTIA A+/MotherBoard/Connectors/Mother Board Connectors.md",
-    "Screenshot 2024-10-14 214831.png",
-    "Screenshot 2024-10-14 214649.png",
-    "Screenshot 2024-10-14 214435.png",
-    "Screenshot 2024-10-14 214215.png",
-    "Screenshot 2024-10-14 213929.png",
-    "3 - Tags/connectors.md",
-    "Screenshot 2024-10-14 213552.png",
-    "2 - Source Material/School/CompTIA A+/Troubleshooting/Troubleshooting Methodology.md",
-    "2 - Source Material/School/CompTIA A+/MotherBoard/Connectors",
-    "2 - Source Material/School/CompTIA A+/Troubleshooting/Troubleshoot Power and Disk Issues.md",
-    "7 - Technical Notes/Powershell/PowerShell Cheat Sheet.md",
-    "1 - Rough Notes/Cheet Sheet References.md",
-    "7 - Technical Notes/Powershell/Untitled",
-    "2 - Source Material/School/Critical Thinking/Evaluating Arguments and Evidence/Critical Thinking Propositions.md",
-    "2 - Source Material/School/Critical Thinking/Information Sources",
-    "7 - Technical Notes/Powershell/Introduction to Powershell.md",
-    "2 - Source Material/School/Critical Thinking/Evaluating Arguments and Evidence",
-    "7 - Technical Notes/Bash/Bash Arrarys.md",
-    "7 - Technical Notes/Powershell",
-    "3 - Tags/arrays.md",
-    "7 - Technical Notes/Bash/Bash Arguments.md",
-    "3 - Tags/arguments.md",
-    "7 - Technical Notes/Bash/Bash Comments.md",
-    "3 - Tags/comments.md",
-    "7 - Technical Notes/Bash/Basic Bash  File  Structure.md",
-    "7 - Technical Notes/Bash/Bash Variables.md",
-    "7 - Technical Notes/Bash/Bash User input.md",
-    "5 - Templates/Code Snippet Template.md",
-    "3 - Tags/user_input.md",
-    "3 - Tags/variables.md",
-    "3 - Tags/bash.md",
-    "3 - Tags/linux.md",
-    "6 - Main Notes/Backdoor.md",
-    "7 - Technical Notes/Bash",
-    "2 - Source Material/School/Critical Thinking/Evaluating Arguments and Evidence/Formal VS Informal Fallacies.md",
-    "2 - Source Material/Programming/Bash",
-    "2 - Source Material/Programming",
-    "Screenshot 2024-10-13 121946.png",
-    "2 - Source Material/Goals & My Future/Weekly goals",
-    "8 - Schedule",
+    "SOC Project/Project Resources/Hugging face/Hugging Face Tutorial.md",
+    "Blue Team Youtube (LogHunters)/Curriculum.md",
+    "SOC Project/Main Idea.md",
+    "Blue Team Youtube (LogHunters)",
+    "SOC Project/Project Resources/Apache Kafka.md",
+    "SOC Project/Project Resources/MicroServices/Break Down of Micro Services.md",
+    "Tags/Micro Services.md",
+    "SOC Project/Project Resources/Implementation.md",
+    "SOC Project/Project Resources/MicroServices",
+    "Tech Wiki/How to Install Pip on Windows.md",
+    "Tags/pip_install.md",
+    "Tech Wiki",
+    "SOC Project/Project Resources/Machine Learning Models.md",
+    "SOC Project/Project Resources/Hugging face",
+    "Tags/Natural Language Processing.md",
+    "Tags/Hugging Face.md",
+    "Tags/Apache_Kafka.md",
+    "Tags/SOC Project.md",
+    "Readwise/Articles/Serious Cryptography .md",
+    "Readwise/Articles/12 Rules for Life An Antidote to Chaos.md",
+    "Readwise/Articles/Existentialism Crash Course Philosophy #16.md",
+    "Readwise/Articles/Ethics Explainer Existentialism.md",
+    "Readwise/Articles",
+    "Readwise",
+    "Tags",
+    "Kafka Website.md",
+    "Philosophy.md",
+    "SOC Project/Project Resources",
+    "SOC Project/Untitled.md",
+    "SOC Project/Major-SOC-Project-248dec1b-74cc-4682-9569-56e87d27a957/Project-Resource---3bb31481-6f14-4a7e-8f0e-ce111f1c3807/Apache-Kafka-684759ee-4ac7-4937-b864-65d369062d1b.md",
+    "SOC Project/Major-SOC-Project-248dec1b-74cc-4682-9569-56e87d27a957/Project-Resource---3bb31481-6f14-4a7e-8f0e-ce111f1c3807/Language-Models--29a24edb-d49a-4aa5-951e-5a77d169936f.md",
+    "SOC Project/Major-SOC-Project-248dec1b-74cc-4682-9569-56e87d27a957/Project-Resource---3bb31481-6f14-4a7e-8f0e-ce111f1c3807.md",
+    "SOC Project/Major-SOC-Project-248dec1b-74cc-4682-9569-56e87d27a957/Project-Resource---3bb31481-6f14-4a7e-8f0e-ce111f1c3807",
+    "SOC Project/Major-SOC-Project-248dec1b-74cc-4682-9569-56e87d27a957/Main-Idea-c607daa6-8179-4eec-8308-077aaa56723f.md",
+    "SOC Project/Major-SOC-Project-248dec1b-74cc-4682-9569-56e87d27a957/Implementation-310c99e0-e79f-438a-b0b3-5916c5ba57fc.md",
+    "SOC Project/Major-SOC-Project-248dec1b-74cc-4682-9569-56e87d27a957",
+    "Untitled.canvas",
+    "Images/Screenshot 2024-10-14 213552.png",
+    "Images/Screenshot 2024-10-13 121946.png",
+    "Images/Screenshot 2024-10-14 214831.png",
+    "Images/Screenshot 2024-10-14 214649.png",
+    "Images/Screenshot 2024-10-14 214435.png",
+    "Images/Screenshot 2024-10-14 214215.png",
+    "Images/Screenshot 2024-10-14 213929.png",
     "Images/raid-levels-explained.png",
     "Images/Screenshot 2024-10-12 114331.png",
-    "Images/Screenshot 2024-10-12 114120.png",
-    "Untitled.canvas"
+    "Images/Screenshot 2024-10-12 114120.png"
   ]
 }

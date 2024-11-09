@@ -1,0 +1,32 @@
+{
+  "token": "muFqDR1kJhsRa3KQ57yf7fqgwlzJI9deWVeXx6zcxSxowHyWdl",
+  "readwiseDir": "Readwise",
+  "frequency": "60",
+  "triggerOnLoad": true,
+  "isSyncing": false,
+  "lastSyncFailed": false,
+  "lastSavedStatusID": 17000335,
+  "currentSyncStatusID": 0,
+  "refreshBooks": false,
+  "booksToRefresh": [
+    "45118874",
+    "45118878",
+    "45118877",
+    "45118881",
+    "45118880",
+    "45118875",
+    "45118876",
+    "45118872",
+    "45118871",
+    "45119073",
+    "45288412",
+    "45396314",
+    "45196642",
+    "45201862",
+    "45364110",
+    "45408106"
+  ],
+  "failedBooks": [],
+  "booksIDsMap": {},
+  "reimportShowConfirmation": true
+}
