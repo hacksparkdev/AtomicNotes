@@ -16,12 +16,35 @@
                 "file": "Just writing/2024-11-10.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-11-10"
+              }
+            }
+          },
+          {
+            "id": "208e3d968fdbb99e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Goals/5 Year Plan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1443674af38e2947",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Goals/5 Year Plan.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -41,9 +64,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              }
             }
           },
           {
@@ -58,9 +79,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
@@ -68,9 +87,7 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           }
         ]
@@ -93,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SOC Project/Main Idea.md",
+                "file": "Goals/5 Year Plan.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,9 +118,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Main Idea"
+              }
             }
           },
           {
@@ -112,12 +127,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SubStack/Ideas/Python Subscription Letter.md",
+                "file": "Goals/5 Year Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Python Subscription Letter"
+              }
             }
           },
           {
@@ -126,10 +139,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SubStack/Ideas/Python Subscription Letter.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Python Subscription Letter"
+                "file": "Goals/5 Year Plan.md"
+              }
             }
           }
         ]
@@ -149,11 +160,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca933a4efb469b86",
+  "active": "1443674af38e2947",
   "lastOpenFiles": [
+    "Weekly Routine.md",
+    "Goals/5 Year Plan.md",
+    "Just writing/2024-11-10.md",
+    "Goals",
     "Just writing",
     "Tags/Western Philosophy.md",
-    "Just writing/2024-11-10.md",
     "media/8a1a43ab-8bed-4d08-94e0-7a6f05ef7581.md",
     "Philosophy/Philosophers/Western Philosophy/Friedrich Nietzsche.md",
     "Philosophy/Arguments & Fallacies/Logical Fallacies/Appeal to Authority.md",
@@ -177,7 +191,6 @@
     "Tags/Fredrich Nietzsche.md",
     "Philosophy/Arguments-&-Fallacies-4008f176-ff63-4b4a-9633-fb1c2bd8f0df/Types-of-Arguments-4d349efa-bd09-4c9f-9e41-56c1ee795794.md",
     "Philosophy/Arguments-&-Fallacies-4008f176-ff63-4b4a-9633-fb1c2bd8f0df/Logical-Fallacies-0eeb9cbd-caa7-4429-b45b-751295bb8065.md",
-    "Philosophy/Arguments-&-Fallacies-4008f176-ff63-4b4a-9633-fb1c2bd8f0df/Debate-Tactics-&-Techniques-32241ec1-19ad-4602-a10b-ecb0d953360a.md",
     "Philosophy/Arguments & Fallacies/Logical Fallacies",
     "Philosophy/Arguments & Fallacies",
     "Philosophy/Philosophical Schools of Thought/Nihilism-995145ed-d051-49ff-a021-eac5828091cc",
@@ -185,8 +198,6 @@
     "Philosophy/Philosophical Schools of Thought/Free-Will-d3840a4d-de74-4ef6-9dc0-1a7a8f4a44c2",
     "Philosophy/Philosophical Schools of Thought/Determinism",
     "Philosophy/Philosophical Schools of Thought/Existentialists-8a383353-4adc-4a47-93f8-4b96daad9567",
-    "Philosophy/Philosophical Schools of Thought",
-    "Philosophy/Philosophers/Western Philosophy",
     "Untitled.canvas",
     "Images/Screenshot 2024-10-14 213552.png",
     "Images/Screenshot 2024-10-13 121946.png",
