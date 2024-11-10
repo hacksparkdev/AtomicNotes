@@ -1,4 +1,4 @@
-Tags: [[SOC Project]] [[Apache_Kafka]] 
+Tags: [[SOC Project]] [[Apache_Kafka]] [[Cybersecurity]] 
 
 ## Resource
 [Kafka Website](https://kafka.apache.org/intro)

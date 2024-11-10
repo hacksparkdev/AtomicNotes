@@ -1,4 +1,4 @@
-Tags: [[SOC Project]] [[Hugging Face]] [[Natural Language Processing]]
+Tags: [[SOC Project]] [[Hugging Face]] [[Natural Language Processing]] [[AI]] [[Cybersecurity]]
 
 ## Installation
 

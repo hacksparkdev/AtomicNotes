@@ -1,4 +1,4 @@
-Tags: [[SOC Project]]
+Tags: [[SOC Project]] [[Cybersecurity]] 
 ### 1. **Overall Architecture**
 
 - **Microservices Architecture**: A microservices approach allows you to separate core functionalities (e.g., data ingestion, alert correlation, enrichment, and automation) into discrete services that can scale independently.
