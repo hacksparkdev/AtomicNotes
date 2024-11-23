@@ -4,47 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "c9ead2ddb2074e66",
+        "id": "9f485b56574b83df",
         "type": "tabs",
         "children": [
           {
-            "id": "eeb02a38c6081ab4",
+            "id": "201149dda87f304b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Just writing/2024-11-10.md",
+                "file": "Tech Wiki/Personal Area Network.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Personal Area Network"
             }
           },
           {
-            "id": "208e3d968fdbb99e",
+            "id": "4dc8bfddad0b959e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals/5 Year Plan.md",
+                "file": "Just writing/Practice/Prompts.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "1443674af38e2947",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Goals/5 Year Plan.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Prompts"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -73,13 +67,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Apache_Kafka",
+                "query": "LANS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -87,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -110,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Goals/5 Year Plan.md",
+                "file": "Just writing/Practice/Prompts.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +116,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Prompts"
             }
           },
           {
@@ -127,10 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Goals/5 Year Plan.md",
+                "file": "Just writing/Practice/Prompts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Prompts"
             }
           },
           {
@@ -139,15 +141,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Goals/5 Year Plan.md"
-              }
+                "file": "Just writing/Practice/Prompts.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Prompts"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 544.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -157,57 +161,59 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "1443674af38e2947",
+  "active": "4dc8bfddad0b959e",
   "lastOpenFiles": [
-    "Weekly Routine.md",
-    "Goals/5 Year Plan.md",
+    "Tech Wiki/Personal Area Network.md",
+    "Tech Wiki/SOHO and Enterprise Networks.md",
+    "Tech Wiki/Domain.md",
+    "Images/fwryubea.bmp",
+    "Images/okv907or.bmp",
+    "Tags/SOHO.md",
+    "Tech Wiki/institute of Electrical and Electronics Engineers.md",
+    "Tech Wiki/Tree.md",
+    "Tech Wiki/LANS AND WANS.md",
+    "Just writing/Practice/Prompts.md",
+    "Tech Wiki/Establish and Test a Theory.md",
+    "Just writing/Practice/Writing Prompts 11-20-24.md",
+    "Tech Wiki/Defense in Depth.md",
+    "Just writing/Practice Writing Prompts.md",
+    "Just writing/Headline Formulas.md",
+    "Just writing/Practice Writing Prompts 1.md",
     "Just writing/2024-11-10.md",
+    "Just writing/Practice",
+    "Just writing/Introduction Formula.md",
+    "Tags/Active Directory.md",
+    "Tech Wiki/Forest.md",
+    "Tech Wiki/Organizational Units (OU).md",
+    "Tech Wiki/Domain Controller.md",
+    "Tags/Security Controls.md",
+    "Tech Wiki/Identity and Access Management.md",
+    "Tags/Windows.md",
+    "Weekly Routine.md",
+    "Tags/UEFI 1.md",
+    "Tags/WAN.md",
+    "Images/Screenshot 2024-11-18 121556.png",
+    "Configure BIOS",
+    "Daily Notes",
+    "Projects/R720 AI Build",
+    "Projects/Research Agent/Resources",
+    "Projects/Research Agent",
+    "Projects/Research Agent/Resources/Hugging Face",
+    "Images/ppc9m924.bmp",
+    "Images/ntd5xnch.bmp",
+    "Images/11dnc7j4.bmp",
+    "Images/cz3e9uap.bmp",
+    "Images/Screenshot 2024-11-13 094924.png",
+    "Images/naks6wz1.bmp",
+    "Images/1me33y7g.bmp",
+    "Images",
     "Goals",
     "Just writing",
-    "Tags/Western Philosophy.md",
-    "media/8a1a43ab-8bed-4d08-94e0-7a6f05ef7581.md",
-    "Philosophy/Philosophers/Western Philosophy/Friedrich Nietzsche.md",
-    "Philosophy/Arguments & Fallacies/Logical Fallacies/Appeal to Authority.md",
-    "Philosophy/Philosophers/Easter Philosophy",
-    "Philosophy/Philosophers/Eastern-Philosophy-ca2d4ef3-1139-492b-b06d-46a05f2d8472.md",
-    "Philosophy/Philosophical Schools of Thought/Determinism/Determinism Notes.md",
-    "Philosophy/Philosophical-Schools-of-Thought-d445d75f-4db0-4693-a635-63065575308d.md",
-    "Philosophy/Philosophers-8b4e6ffc-4a23-47b0-ada4-b561ea69e013.md",
-    "Philosophy/Arguments-&-Fallacies-4008f176-ff63-4b4a-9633-fb1c2bd8f0df.md",
-    "Philosophy/Philosophical Schools of Thought/Stoicism-8cc9ddb2-3e72-4c90-a7f6-23a9cfaf7228.md",
-    "Philosophy/Philosophical Schools of Thought/Free-Will-d3840a4d-de74-4ef6-9dc0-1a7a8f4a44c2.md",
-    "Philosophy/Philosophical Schools of Thought/Nihilism-995145ed-d051-49ff-a021-eac5828091cc.md",
-    "Philosophy/Philosophical Schools of Thought/Existentialists-8a383353-4adc-4a47-93f8-4b96daad9567.md",
-    "Philosophy/Philosophical Schools of Thought/Essentialism-ab0d1151-d8f4-4c4b-98b9-7af00cc4d9f7.md",
-    "Philosophy/Philosophical Schools of Thought/Determinism-6739a384-38b6-46a0-9532-318ed7857397.md",
-    "Philosophy/Philosophical Schools of Thought/Nihilism-995145ed-d051-49ff-a021-eac5828091cc/Nihilism-Template-5bef3ba8-4455-4d4a-9d97-f9d5c1920a5d.md",
-    "Philosophy/Philosophical Schools of Thought/Free-Will-d3840a4d-de74-4ef6-9dc0-1a7a8f4a44c2/Free-Will-Notes-c3698983-1b71-459b-a21e-d87cc0d7d7cb.md",
-    "Philosophy/Philosophical Schools of Thought/Existentialists-8a383353-4adc-4a47-93f8-4b96daad9567/Draft-ce56e0d5-d5f6-42bf-9512-aec2d4fb9c2d.md",
-    "Tags/Determinism.md",
-    "Philosophy/Philosophers/Western-Philosophy-c9832feb-a6d9-4cee-a7ed-e5e984fea16c.md",
-    "Tags/Fredrich Nietzsche.md",
-    "Philosophy/Arguments-&-Fallacies-4008f176-ff63-4b4a-9633-fb1c2bd8f0df/Types-of-Arguments-4d349efa-bd09-4c9f-9e41-56c1ee795794.md",
-    "Philosophy/Arguments-&-Fallacies-4008f176-ff63-4b4a-9633-fb1c2bd8f0df/Logical-Fallacies-0eeb9cbd-caa7-4429-b45b-751295bb8065.md",
-    "Philosophy/Arguments & Fallacies/Logical Fallacies",
-    "Philosophy/Arguments & Fallacies",
-    "Philosophy/Philosophical Schools of Thought/Nihilism-995145ed-d051-49ff-a021-eac5828091cc",
-    "Philosophy/Philosophical Schools of Thought/Essentialism-ab0d1151-d8f4-4c4b-98b9-7af00cc4d9f7",
-    "Philosophy/Philosophical Schools of Thought/Free-Will-d3840a4d-de74-4ef6-9dc0-1a7a8f4a44c2",
-    "Philosophy/Philosophical Schools of Thought/Determinism",
-    "Philosophy/Philosophical Schools of Thought/Existentialists-8a383353-4adc-4a47-93f8-4b96daad9567",
-    "Untitled.canvas",
-    "Images/Screenshot 2024-10-14 213552.png",
-    "Images/Screenshot 2024-10-13 121946.png",
-    "Images/Screenshot 2024-10-14 214831.png",
-    "Images/Screenshot 2024-10-14 214649.png",
-    "Images/Screenshot 2024-10-14 214435.png",
-    "Images/Screenshot 2024-10-14 214215.png",
-    "Images/Screenshot 2024-10-14 213929.png",
-    "Images/raid-levels-explained.png",
-    "Images/Screenshot 2024-10-12 114331.png",
-    "Images/Screenshot 2024-10-12 114120.png"
+    "Untitled.canvas"
   ]
 }

@@ -1,4 +1,4 @@
-Tags: [[FTP]] [[Penetration Testing]]  [[Cybersecurity]] [[Netwroking]]
+Tags: [[FTP]] [[Penetration Testing]]  [[Cybersecurity]] [[Netwroking]] #FTP
 
 ## What is FTP?
 **The File Transfer Protocol (FTP) is a standard communication protocol used to transfer computer files from a server to a client on a computer network. You can connect to a ftp server with a Username and password. Although you can also connect to it anonymously**
